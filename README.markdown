@@ -14,7 +14,7 @@ ghci> Main.main
 -- repeat
 ```
 
-Ordeal might be anagram of reload.
+Ordeal might be an anagram of reload.
 
 ## Installation
 
